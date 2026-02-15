@@ -14,34 +14,27 @@ This project utilizes the **Hound Protocol**, assigning AI the role of a "Mentor
 
 ### Key Features
 
-* 
-**Human-First Methodology:** Establishing internal reasoning before AI intervention.
+* **Human-First Methodology:** Establishing internal reasoning before AI intervention.
 
 
-* 
-**Comparative Analysis:** Detailed interaction testing with **Gemini 3 Pro** and **Claude 3.5 Sonnet**.
+* **Comparative Analysis:** Detailed interaction testing with **Gemini 3 Pro** and **Claude 3.5 Sonnet**.
 
 
-* 
-**Integrated Evaluation Scale:** A 7-point Likert scale measuring three core dimensions:
+* **Integrated Evaluation Scale:** A 7-point Likert scale measuring three core dimensions:
 
 
-* 
-**Capacity:** Technical effectiveness and fluency.
+* **Capacity:** Technical effectiveness and fluency.
 
 
-* 
-**Alignment:** Trust, transparency, and ethical adherence.
+* **Alignment:** Trust, transparency, and ethical adherence.
 
 
-* 
-**Pedagogical Outcome:** The system's ability to scaffold learning and stimulate critical thinking.
+* **Pedagogical Outcome:** The system's ability to scaffold learning and stimulate critical thinking.
 
 
 
 
-* 
-**UX Insights:** Analysis of the "Gulf of Execution" in Microsoft Copilot and the limitations of Phind 3's "mini-app" approach.
+* **UX Insights:** Analysis of the "Gulf of Execution" in Microsoft Copilot and the limitations of Phind 3's "mini-app" approach.
 
 
 
@@ -57,51 +50,41 @@ Focused on daily commuters, students, and workers, this study identifies frictio
 
 ### Key Components
 
-* 
-**Human Factors Analysis:** Measuring cognitive workload, mental/temporal demand, and user frustration.
+* **Human Factors Analysis:** Measuring cognitive workload, mental/temporal demand, and user frustration.
 
 
-* 
-**Evaluation Toolkit:** * **NASA Task Load Index (NASA-TLX):** To quantify mental demand.
+* **Evaluation Toolkit:** * **NASA Task Load Index (NASA-TLX):** To quantify mental demand.
 
 
-* 
-**Eye-Tracking:** Analyzing dwell times and visual search efficiency.
+* **Eye-Tracking:** Analyzing dwell times and visual search efficiency.
 
 
-* 
-**PANAS:** Assessing emotional affect and anxiety levels.
+* **PANAS:** Assessing emotional affect and anxiety levels.
 
 
 
 
-* **Proposed Solutions:**
-* 
-**Automated Re-routing:** Using GPS to offload cognitive burden by suggesting the top 3 alternative itineraries.
+**Proposed Solutions:**
+* **Automated Re-routing:** Using GPS to offload cognitive burden by suggesting the top 3 alternative itineraries.
 
 
-* 
-**"Calm Mode" UI:** Implementing solution-oriented language to reduce user panic.
+* **"Calm Mode" UI:** Implementing solution-oriented language to reduce user panic.
 
 
-* 
-**Smart Action CTAs:** High-contrast buttons for immediate route recovery.
+* **Smart Action CTAs:** High-contrast buttons for immediate route recovery.
 
 
 
 
 ## Tools & Technologies
 
-* 
-**LLMs:** Gemini, Claude, ChatGPT, Microsoft Copilot, Phind.
+* **LLMs:** Gemini, Claude, ChatGPT, Microsoft Copilot, Phind.
 
 
-* 
-**Methodologies:** SWOT Analysis, Hound Protocol, FBS Framework, ISO 9241-11 Usability Standards.
+* **Methodologies:** SWOT Analysis, Hound Protocol, FBS Framework, ISO 9241-11 Usability Standards.
 
 
-* 
-**Evaluation Models:** NASA-TLX, PANAS, Eye-Tracking Heatmaps.
+* **Evaluation Models:** NASA-TLX, PANAS, Eye-Tracking Heatmaps.
 
 
 
